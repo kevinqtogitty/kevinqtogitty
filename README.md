@@ -60,7 +60,7 @@
 
 <h3 align="left">Build tools & deployment:</h3>
 
-
+[![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=grey&style=for-the-badge&logo=Vite&logoColor=%23ffdf00)](https://) [![Rollup](https://img.shields.io/static/v1?label=&message=Rollup&color=%23fff&style=for-the-badge&logo=rollup.js&logoColor=burgundy)](https://) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=black&style=for-the-badge&logo=jest&logoColor=611f69)](https://) [![VERCEL](https://img.shields.io/static/v1?label=&message=VERCEL&color=%23000&style=for-the-badge&logo=vercel&logoColor=%23fff)](https://) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=%23fff&style=for-the-badge&logo=netlify&logoColor=20c6b7)](https://) [![Cloudflare](https://img.shields.io/static/v1?label=&message=Cloudflare&color=%23fff&style=for-the-badge&logo=cloudflare&logoColor=orange)](https://)
 
 
 
