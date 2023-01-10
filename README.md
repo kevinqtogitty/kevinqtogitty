@@ -54,28 +54,13 @@
 
 <h3 align="left">Frontend frameworks and libraries:</h3>
 
-<p align="left"> 
-<a>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-</a>
-<a>    
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express Badge"/>
-</a>
- <a>
-    <img src"https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="CSS Badge"/>
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
-</a>
- <a>
-    <img src"https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS Badge"/>
-</a>
-    <img src"https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt=" Badge"/>
-</p>
- 
- 
+[![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=black&style=for-the-badge&logo=React&logoColor=%2361DBFB)](https://) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=3c873a&style=for-the-badge&logo=Node.js&logoColor=%23fff)](https://) [![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=%23fff&style=for-the-badge&logo=express&logoColor=%23000)](https://) [![AstroJS](https://img.shields.io/static/v1?label=&message=Astro.JS&color=%23000&style=for-the-badge&logo=Astro&logoColor=orange)](https://) [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=%23000&style=for-the-badge&logo=Next.js&logoColor=%23fff)](https://) [![THREE.JS](https://img.shields.io/static/v1?label=&message=THREE.JS&color=8B8000&style=for-the-badge&logo=Three.js&logoColor=%23000)](https://) [![Axios](https://img.shields.io/static/v1?label=&message=Axios&color=%23fff&style=for-the-badge&logo=Axios&logoColor=purple)](https://) [![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind+CSS&color=0f9ee1&style=for-the-badge&logo=tailwindcss&logoColor=%23fff)](https://) [![Styled Components](https://img.shields.io/static/v1?label=&message=Styled+Components&color=hotpink&style=for-the-badge&logo=styled+components&logoColor=%23fff)](https://) [![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=%23e75480&style=for-the-badge&logo=sass&logoColor=%23fff)](https://)
+
+<h3 align="left">Databases:</h3>
+
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=2ea44f&style=for-the-badge&logo=MongoDB&logoColor=%23fff)](https://) [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=+%230064a5&style=for-the-badge&logo=PostgreSQL&logoColor=%23fff)](https://) [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=+%23008bb9&style=for-the-badge&logo=MySQL&logoColor=%23fff)](https://) [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=grey&style=for-the-badge&logo=Firebase&logoColor=%23FFCB2B)](https://)
 
 
-<a>
-    <img src"" alt=" Badge"/>
-</a>
+
+
+
