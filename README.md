@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h3 align="center">A passionate full-stack developer from the US</h3>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200"/>
 </div>
@@ -15,9 +19,6 @@
 </div>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate full-stack developer from the US</h3>
 
 - 🔭 I’m currently working on [A personal coffee-tracker](https://github.com/kevinqtogitty/coffee-tracker-backend)
 
