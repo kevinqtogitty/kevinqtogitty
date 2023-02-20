@@ -61,11 +61,11 @@
 
 <h3 align="left">Databases:</h3>
 
-[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=2ea44f&style=for-the-badge&logo=MongoDB&logoColor=%23fff)](https://) [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=+%230064a5&style=for-the-badge&logo=PostgreSQL&logoColor=%23fff)](https://) [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=+%23008bb9&style=for-the-badge&logo=MySQL&logoColor=%23fff)](https://) [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=grey&style=for-the-badge&logo=Firebase&logoColor=%23FFCB2B)](https://)
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=2ea44f&style=for-the-badge&logo=MongoDB&logoColor=%23fff)](https://) [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=+%230064a5&style=for-the-badge&logo=PostgreSQL&logoColor=%23fff)](https://) [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=grey&style=for-the-badge&logo=Firebase&logoColor=%23FFCB2B)](https://)
 
 <h3 align="left">Build tools & deployment:</h3>
 
-[![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=grey&style=for-the-badge&logo=Vite&logoColor=%23ffdf00)](https://) [![Rollup](https://img.shields.io/static/v1?label=&message=Rollup&color=%23fff&style=for-the-badge&logo=rollup.js&logoColor=burgundy)](https://) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=black&style=for-the-badge&logo=jest&logoColor=611f69)](https://) [![VERCEL](https://img.shields.io/static/v1?label=&message=VERCEL&color=%23000&style=for-the-badge&logo=vercel&logoColor=%23fff)](https://) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=%23fff&style=for-the-badge&logo=netlify&logoColor=20c6b7)](https://) [![Cloudflare](https://img.shields.io/static/v1?label=&message=Cloudflare&color=%23fff&style=for-the-badge&logo=cloudflare&logoColor=orange)](https://)
+[![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=grey&style=for-the-badge&logo=Vite&logoColor=%23ffdf00)](https://)  [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=black&style=for-the-badge&logo=jest&logoColor=611f69)](https://) [![VERCEL](https://img.shields.io/static/v1?label=&message=VERCEL&color=%23000&style=for-the-badge&logo=vercel&logoColor=%23fff)](https://) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=%23fff&style=for-the-badge&logo=netlify&logoColor=20c6b7)](https://) [![Cloudflare](https://img.shields.io/static/v1?label=&message=Cloudflare&color=%23fff&style=for-the-badge&logo=cloudflare&logoColor=orange)](https://)
 
 
 
